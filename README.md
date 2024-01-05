@@ -1,3 +1,9 @@
+[![Continuous Integration](https://github.com/kaiosilveira/poeaa-service-stub/actions/workflows/dotnet.yml/badge.svg)](https://github.com/kaiosilveira/poeaa-service-stub/actions/workflows/dotnet.yml)
+
+ℹ️ _This repository is part of my "Patterns of Enterprise Application Architecture" (PoEAA) catalog, based on Martin Fowler's book with the same title. For my full work on the topic, see [kaiosilveira/poeaa](https://github.com/kaiosilveira/patterns-of-enterprise-application-architecture)_
+
+---
+
 # Service Stub
 
 Removes dependence upon problematic services during testing.
