@@ -4,6 +4,5 @@ public class BillingSchedule(string productCode, Address address, Money billingA
 {
 	public readonly string ProductCode = productCode;
 	public readonly Address Address = address;
-
 	public readonly Money BillingAmount = billingAmount;
 }
